@@ -235,7 +235,7 @@ Since we have installed our application and did the configurtion already through
 On the EC2 dashboard, select the instance, go to the Action dropdown, name your Image and create image. Note the AMI ID, we will use it later.
 
 
-### Activity 06 - Verifying the connectivity
+### Activity 06 - Verifying the connectivity (optional)
 
 We now have created EC2 instances across public and private subnet. We would now verify whether our network configuration is working as desired.
 
