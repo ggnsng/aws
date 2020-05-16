@@ -8,7 +8,7 @@ In this lab we are going to design the network for a highly available two tier w
 
 The network after building, will look similer to the picture below
 
- ![](https://github.com/ashydv/aws-labs/blob/master/images/NetworkDiagram.png)
+ ![](https://github.com/ggnsng/aws/blob/master/images/NetworkDiagram.png)
 
 ### Activity 01 – Creating a VPC
 
