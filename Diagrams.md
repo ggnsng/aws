@@ -2,7 +2,7 @@
 
 Multi (three) Tier Architecture 
 
- ![](https://github.com/ashydv/aws-labs/blob/master/images/ThreeTierArchitecture.png)
+ ![](https://github.com/ggnsng/aws/blob/master/images/ThreeTierArchitecture.png)
  
 Highly Available Network Diagram 
 
