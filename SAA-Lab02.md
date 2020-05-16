@@ -1,0 +1,3 @@
+- should already have a vpc from lab01 or default VPC
+- create a role
+- create a beanstalk app from [this](https://github.com/ashydv/FoodOnWings/raw/master/FoodOnWings.zip) zip file
