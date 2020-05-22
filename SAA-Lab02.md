@@ -1,3 +1,5 @@
+work in progress.. 
+
 This lab helps you create a web application for your company that specialises in Drone delivery of Food. the customer place an order over the appliction which is stored in DynamoDB table in AWS. An email notification is sent to you as well as the order is put in the queue for further processing.
 
 
